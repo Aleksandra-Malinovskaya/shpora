@@ -1,0 +1,9 @@
+button{
+    border-radius: 40%;
+    padding: 1vh;
+    margin: 1vh;
+    background-color: white;
+}
+button:hover{
+    background-color: purple;
+}
